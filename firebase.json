@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "covid-19-update",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

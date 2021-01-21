@@ -1,0 +1,8 @@
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
+img{
+  height: 240px;
+  width: 320px;
+}
